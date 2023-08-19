@@ -1,6 +1,8 @@
 # Ibn-Taymiyyah-Analogy-Engine
 This program is an analogy engine designed to determine if a drink is prohibited based on its attributes and by comparing it to a database of known drinks. The decision is made using analogical reasoning, inspired by Ibn Taymiyyah's critique of Aristotelian logic.
 -----------------------------------------------------------------------------------------
+![T](https://github.com/qalassa/Ibn-Taymiyyah-Analogy-Engine/assets/109701506/769ef3a2-9eb7-4291-904d-b5a4c35a49a0)
+
 Components:
 
 1. DrinkCase Struct:
